@@ -1,6 +1,7 @@
  # Extraction de coordonnées GPS depuis une photo
  <img width="3024" height="4032" alt="photo0" src="https://github.com/user-attachments/assets/24571ddb-6a9f-4f5e-afe1-cf701db0da8b" />
-[1_devoir.py](https://github.com/user-attachments/files/32526183/1_devoir.py)
+
+ *[1_devoir.py](https://github.com/user-attachments/files/32526183/1_devoir.py)
 import os
 print("Le script est en cours d'exécution...")
 print(f"Fichiers dans le dossier : {os.listdir()}")
